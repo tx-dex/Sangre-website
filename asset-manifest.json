@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Sangre-website/static/css/main.1a3983c9.css",
-    "main.js": "/Sangre-website/static/js/main.c000b6e5.js",
-    "static/js/488.01a586e3.chunk.js": "/Sangre-website/static/js/488.01a586e3.chunk.js",
-    "static/media/sangre-logo.svg": "/Sangre-website/static/media/sangre-logo.70b691c06811723847ec1d88935a404f.svg",
-    "index.html": "/Sangre-website/index.html",
-    "static/media/arrow.svg": "/Sangre-website/static/media/arrow.792495e3004d18c64f1dcc6199d60b9b.svg",
-    "main.1a3983c9.css.map": "/Sangre-website/static/css/main.1a3983c9.css.map",
-    "main.c000b6e5.js.map": "/Sangre-website/static/js/main.c000b6e5.js.map",
-    "488.01a586e3.chunk.js.map": "/Sangre-website/static/js/488.01a586e3.chunk.js.map"
+    "main.css": "/static/css/main.1a3983c9.css",
+    "main.js": "/static/js/main.9b1adc7e.js",
+    "static/js/488.01a586e3.chunk.js": "/static/js/488.01a586e3.chunk.js",
+    "static/media/sangre-logo.svg": "/static/media/sangre-logo.70b691c06811723847ec1d88935a404f.svg",
+    "index.html": "/index.html",
+    "static/media/arrow.svg": "/static/media/arrow.792495e3004d18c64f1dcc6199d60b9b.svg",
+    "main.1a3983c9.css.map": "/static/css/main.1a3983c9.css.map",
+    "main.9b1adc7e.js.map": "/static/js/main.9b1adc7e.js.map",
+    "488.01a586e3.chunk.js.map": "/static/js/488.01a586e3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a3983c9.css",
-    "static/js/main.c000b6e5.js"
+    "static/js/main.9b1adc7e.js"
   ]
 }
